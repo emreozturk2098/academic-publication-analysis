@@ -1,0 +1,700 @@
+{
+  "snapshot_date": "2026-10-07",
+  "context": "Özyeğin CS552 coursework; full available relevant school materials allowed by Emre; private",
+  "complete_scripts": [
+    {
+      "repo_path": "source/processing/deneme11.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/deneme11.py",
+      "source_sha256": "395bb481df006144970e0b31ffc83eda25afffa6cd59b9e95be7c67894ba1048",
+      "shared_sha256": "634600cb113a1f4a0aba4b9a9134d124d74d136520caf077010b583091c48c14",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/processing/deneme12.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/deneme12.py",
+      "source_sha256": "756eeddfee157833acfbb4223b53bdeb4da9f43b948d7da0fc96a8e074a331c4",
+      "shared_sha256": "eec652409958809ba67b43eb09520f4270a90f4d6491afa9d3bab1294699a094",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/processing/deneme13.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/deneme13.py",
+      "source_sha256": "15c9df6164d6844e0d1cf7bcee0ed31ded0ac9c74d87652856ffbe8758212b08",
+      "shared_sha256": "6a0a57e75559c17bd8a102c17db805f40e7f391a3150aeb5e682b4bb3bb0231c",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/processing/deneme14.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/deneme14.py",
+      "source_sha256": "422e9fcd970f1613afb37f7df073b3baf1fde3733fc7dbaed53e5b826f44fddf",
+      "shared_sha256": "4cc7e4debcbdfa9efb99a8646ad267273608a9963bbf61244f947aa6e33c6c27",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/processing/deneme15.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/deneme15.py",
+      "source_sha256": "de79ba5a98f11face3683d10508ddfa543317c5c124a372ca84d68be71ddeee3",
+      "shared_sha256": "366d6f17e89fc849e90d19798a743d7e5c81d12cedf0b86544ae2e58926c91ad",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/processing/deneme16.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/deneme16.py",
+      "source_sha256": "9e3028c3445da350078b987c5b86a5df5e554ebe6e0ce3e61934ef75a8691776",
+      "shared_sha256": "91ccb24630d50a071dcd42c1c6bea4eb90713cedf6d3ee1a8900657ecb49c28d",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/processing/deneme17.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/deneme17.py",
+      "source_sha256": "64b73a60cb29a27e7f13ce427107caa1e2e1c3b01911bdb4ccb1a3e595db95c1",
+      "shared_sha256": "d06ab82fe62f6ec22bc256794befaf0ab9eca09c1a9d7ece809fd8db0957381b",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/processing/deneme18.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/deneme18.py",
+      "source_sha256": "0b4534fef3877b586e635d6bdca463b9d462df6d5918b3cf62848f1eaeaa025a",
+      "shared_sha256": "51a923e68ba11adc7f2bfd31af95d7c3e68251a99fc3d08adbd594106d317c5c",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 4
+    },
+    {
+      "repo_path": "source/processing/deneme8.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/deneme8.py",
+      "source_sha256": "6d0feb7d0a46d5cc6c28c3f2b912227805439a45f613e1413934325df17f2db0",
+      "shared_sha256": "f3b0b28e536dd2c804770792cbc2d3ecaf853c65940495459341f6fae5938abd",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/processing/type_sütunu_ekleme_kodu.py",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/type_sütunu_ekleme_kodu.py",
+      "source_sha256": "8610e542755c0f64b9fd9307f5b5aecdf5bb172066ae815d79a8a49940348c78",
+      "shared_sha256": "58b286060d26b251ee3b95610d5ecd27407ce7dbf03b0271fc39964e61135ad8",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/scraping_processing/all_universities_fixed.py",
+      "original_source": "VSCode_Kodları/Scrapping/all_universities_fixed.py",
+      "source_sha256": "a7a898b1cc0d119491f7d80985e783a7552b46abd62b1b610ae23c82234de545",
+      "shared_sha256": "c78e3783f8f4c381941e9bbc8552e4dec71cd6d6f6310da9e3dad65145be91df",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/All_universities_ing_karakter.py",
+      "original_source": "VSCode_Kodları/Scrapping/All_universities_ing_karakter.py",
+      "source_sha256": "13986378d405a6e2d2ebb50ebf1c19bc2d1ed75738df6ebce0574b6296ce09b0",
+      "shared_sha256": "af02179a1141285405190bfa4c7718b877ad5f71533f03dd5313279fa43d9c15",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/deneme3.py",
+      "original_source": "VSCode_Kodları/Scrapping/deneme3.py",
+      "source_sha256": "c3a7fc61ac4ebf29efaebf8c894f1a1af25b1df321f0b9b1131b259a5b7d69f4",
+      "shared_sha256": "1873b7aa7988323ea1c70c0cded363e52637473b9cffc7d305cce1913c97c1bb",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 1
+    },
+    {
+      "repo_path": "source/scraping_processing/deneme4.py",
+      "original_source": "VSCode_Kodları/Scrapping/deneme4.py",
+      "source_sha256": "cd9113fbe3f2f4c5f3750bd64dcd0a1c7bfbea1897a97940a972ee0b471a94c3",
+      "shared_sha256": "b3240b0927a07d50e11e3bbc6877dc3fcd27c4f6f4e175f00f80ee182681aacb",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/deneme5.py",
+      "original_source": "VSCode_Kodları/Scrapping/deneme5.py",
+      "source_sha256": "a3533454c5da0c5904d83858309e5c8a9ace0f476a17bea7e39cef0758202825",
+      "shared_sha256": "eec56631a580c11282f71d7e4294856b4fd1d13d71742e5da66eb0c3a8e4854f",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/Department_counts.py",
+      "original_source": "VSCode_Kodları/Scrapping/Department_counts.py",
+      "source_sha256": "75dab794d5b5292787a32fa89dbf8fb93721ba5f7299f7c68e76146e2c5d5d2e",
+      "shared_sha256": "6e69ab410b36f0251a647bc217d429eb6f17dc784e076f17eb05dfbb264bb28a",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/Faculty_of_universities_number_of_titles.py",
+      "original_source": "VSCode_Kodları/Scrapping/Faculty_of_universities_number_of_titles.py",
+      "source_sha256": "aafec777fb5160b8a634ac59c810dd0f2971a562bad7bf78c3340dce64e60454",
+      "shared_sha256": "ab5430524273a3c94095d2afc69b6e39bc4addac517a9dc23b328b55bedffd83",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/final_merged_all_univerisities.py",
+      "original_source": "VSCode_Kodları/Scrapping/final_merged_all_univerisities.py",
+      "source_sha256": "d25ef8c1d303e4826ec813337568393aa703b2fb18bf3d4d44fca31074a9d3ed",
+      "shared_sha256": "7c9fd282013d30a5915f83952226dbb48e6d16df9f6e92f8c817905776c71cf4",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/scraping_processing/gender_guess.py",
+      "original_source": "VSCode_Kodları/Scrapping/gender_guess.py",
+      "source_sha256": "e3fa3631ead1bfdb248230485bd2c3170854ec6c8a9eaf74f23a7017d84ede4a",
+      "shared_sha256": "0126f4025a31487dc5152e7a101f379c2b57711c1d5c739e4f7d0fab711eead8",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/gender_title_count.py",
+      "original_source": "VSCode_Kodları/Scrapping/gender_title_count.py",
+      "source_sha256": "572727c95cc329467988647727f77460ef18509cbc9cfdf1ed8ca90e8a95ffe9",
+      "shared_sha256": "e5835c2b780dde130593994ae4690235b552c8ffd21a12d9ef627cd1454b6e78",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/ing_karakter_yok_atlas.py",
+      "original_source": "VSCode_Kodları/Scrapping/ing_karakter_yok_atlas.py",
+      "source_sha256": "fd2404019513dfa6cbc216123d189256988348ecf975b6ab69a413cd20a88a03",
+      "shared_sha256": "677fe8a8ea9f80457842efa3e8dd23a2016d58faf4ed33b4c26d2403810dbc37",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/ing_karakter_yok_atlas_full.py",
+      "original_source": "VSCode_Kodları/Scrapping/ing_karakter_yok_atlas_full.py",
+      "source_sha256": "128a3c54109910b9e1f96e9f8031d3667e74eb7a4680e1ac71f4b74c73ced44d",
+      "shared_sha256": "694207fe5cbbc6fd2363b3930a7f13cbbad5d76060a13127afda4f59e91df422",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/matching_all.py",
+      "original_source": "VSCode_Kodları/Scrapping/matching_all.py",
+      "source_sha256": "c80b7b246f2119671b113156f8e9ccb1115fc34537b15181e01a7edfb7687500",
+      "shared_sha256": "d3b820e28455bd47e1414df08f00fd06257d6bed89774a6018bfa179f1f464bb",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/scraping_processing/Matching_csvler.py",
+      "original_source": "VSCode_Kodları/Scrapping/Matching_csvler.py",
+      "source_sha256": "88f12e5bd7e3d016c9f6e8150ecc3e3fb9c150c838681b6457a41d6470545788",
+      "shared_sha256": "d8d7c5b44c2de93c7ec134e08958ecd92ad75488f046ad04db3759a5c84b96be",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/scraping_processing/Matching_direkt.py",
+      "original_source": "VSCode_Kodları/Scrapping/Matching_direkt.py",
+      "source_sha256": "e9c7047571bd497081623b89edd2516c5cde5624d457a497ad6a3ccb7573f426",
+      "shared_sha256": "ea107b03a212282071520b11214cd5c716b152e975dc875cc2e9d0df916aef65",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/scraping_processing/matcing_all_datas.py",
+      "original_source": "VSCode_Kodları/Scrapping/matcing_all_datas.py",
+      "source_sha256": "b23b6d84563f92364451915e65b70fe1d5407c64bddb95a10a4d5aed09d6df10",
+      "shared_sha256": "9a8b28fa18e83a2deba5c158f3809b39d9cdf3bc7fbaf33cf33c7cf9f2bc2960",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/scraping_processing/merged_ankara_konya_kayseri.py",
+      "original_source": "VSCode_Kodları/Scrapping/merged_ankara_konya_kayseri.py",
+      "source_sha256": "7dace742a3995cb6670cb06e8b71977ac433d1f646b0c239b41d35ec2102b1bd",
+      "shared_sha256": "37cbba3cd560ec040754d06d376a9be7a608e6fe6c77caa02740407015364eb4",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/merged_rest_cities.py",
+      "original_source": "VSCode_Kodları/Scrapping/merged_rest_cities.py",
+      "source_sha256": "541cb1b2016ba964c1451f13bac61cc3d61b2d5562f000885bafe59ac40b0766",
+      "shared_sha256": "713b619f725fceecca971d252c8a877cb5a7c1c8ec3afaf6a6349b9694756aee",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/scopus_all_upper.py",
+      "original_source": "VSCode_Kodları/Scrapping/scopus_all_upper.py",
+      "source_sha256": "70d29db3cc5f6ffc8cb032316bb5543894d55aa2807c7011ca78eaf65c3e6713",
+      "shared_sha256": "3295d332d6c226868a3bda3eb86148f590ab3ef5c057f819db7afccb58925303",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/csv_conversion/how_many_rows.py",
+      "original_source": "VSCode_Kodları/Scrapping/Scopus_csv_to_excel/how_many_rows.py",
+      "source_sha256": "511602bbd63985ae043b355cd10d9e4b1bdb889c831f1d30bee1443de84a923e",
+      "shared_sha256": "0242c648e575a9a00898f92b546fe378df96b83d2abe1166758612dc19a4501e",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 1
+    },
+    {
+      "repo_path": "source/csv_conversion/scopus_tek_excel.py",
+      "original_source": "VSCode_Kodları/Scrapping/Scopus_csv_to_excel/scopus_tek_excel.py",
+      "source_sha256": "8f7c6ead8b574c2b9591b8c269da210afadefed202a451505197319642a426c0",
+      "shared_sha256": "37a67082ac2a63eea5dcd28545cadd6c10a375579e95cc5f9ae255721f26cec0",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/scopus_ing_karakter.py",
+      "original_source": "VSCode_Kodları/Scrapping/scopus_ing_karakter.py",
+      "source_sha256": "83d69091fb01186c6b38fc8fe96b660e57fd7c705c8da423a47eff0cab3ef059",
+      "shared_sha256": "8d776eea3e609bba7697e2fd6f28e92a0f9bf31c0fcb1f02a6a327ddadd94eb0",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/Scopus_ing_karkaterr.py",
+      "original_source": "VSCode_Kodları/Scrapping/Scopus_ing_karkaterr.py",
+      "source_sha256": "82b89d7e09d77de8400d20f6dce16f644e87e900179628fdc50b8adfcd1242c7",
+      "shared_sha256": "c30926f3a1c599e0d7d4051880b90c6c34efb50dbbf2e155c849e984d00c974d",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/type_gender_by_cities.py",
+      "original_source": "VSCode_Kodları/Scrapping/type_gender_by_cities.py",
+      "source_sha256": "b13c9229521eec70bc87049ee84c96e543929a428d9c3bbf8ff9b743203ed265",
+      "shared_sha256": "493e4d037ecbade3603bb6e725a52ee6826f9d8b9ab0f72f705f719197d1c2e9",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/univeristy_concat_full.py",
+      "original_source": "VSCode_Kodları/Scrapping/univeristy_concat_full.py",
+      "source_sha256": "e651ebf096154e77b93fa7e5316f2abccc5eb0b372883e791997cbfdbf68e1b5",
+      "shared_sha256": "a0a24838cd2bc0e5bf8deb159f10d2d50c9e00b2faf7a2977aacba3a0bb4a980",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/university_gender_info.py",
+      "original_source": "VSCode_Kodları/Scrapping/university_gender_info.py",
+      "source_sha256": "d0b846fb9527fee2e4b4da00316a2cc0d23ffecb73eaad9d154ec1630057d752",
+      "shared_sha256": "a591788e1cd22fd20074ab516e0c1de299a45f1a873159fabc3bd2eceb2560f2",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/scraping_processing/unvana_gore_city.py",
+      "original_source": "VSCode_Kodları/Scrapping/unvana_gore_city.py",
+      "source_sha256": "7ca42e5a5aad647d4e74d987fe7a0bf73391bf54fb77ea27c9ba20bc18802d55",
+      "shared_sha256": "ec120576437e6516317f39f8860f5e3feb4c8e1a8b2d9d7e36f342fa9e802708",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/yok_collection/tek_bir_excel_concat.py",
+      "original_source": "VSCode_Kodları/Scrapping/Yok_atlas_veri_cekme/tek_bir_excel_concat.py",
+      "source_sha256": "f98e820685eb5c2704e99fd2944591f1152f53bc513dbe70dde1533fc0d0df39",
+      "shared_sha256": "c58124349796bc63c4d810e3d578d13d0712a49a51e60c02458c4814479654f7",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 2
+    },
+    {
+      "repo_path": "source/yok_collection/tek_concat_üni_title_kişi_bölüm_all.py",
+      "original_source": "VSCode_Kodları/Scrapping/Yok_atlas_veri_cekme/tek_concat_üni_title_kişi_bölüm_all.py",
+      "source_sha256": "269f3782918818c96720abb2328ae956a6ae38776589121c825e327939f314ff",
+      "shared_sha256": "848391ad7e485a5de5d25bcc831fa9664a854c14110112bf3bce89a474aeb861",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/yok_collection/Title_üni_kişi.py",
+      "original_source": "VSCode_Kodları/Scrapping/Yok_atlas_veri_cekme/Title_üni_kişi.py",
+      "source_sha256": "269f3782918818c96720abb2328ae956a6ae38776589121c825e327939f314ff",
+      "shared_sha256": "848391ad7e485a5de5d25bcc831fa9664a854c14110112bf3bce89a474aeb861",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/yok_collection/wikipedia_illerdeki_üniler.py",
+      "original_source": "VSCode_Kodları/Scrapping/Yok_atlas_veri_cekme/wikipedia_illerdeki_üniler.py",
+      "source_sha256": "4ebc3d45ad092f08c6b8422ef62a15eaf72c8940a07b68fd2c3ab100d98215cd",
+      "shared_sha256": "ec2869675765d14960e2bd742cda8f0951d56016bcb023d5ca46b7a303d9c6be",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/yok_collection/yok_atlas_üni_bölüm_kişi_title.py",
+      "original_source": "VSCode_Kodları/Scrapping/Yok_atlas_veri_cekme/yok_atlas_üni_bölüm_kişi_title.py",
+      "source_sha256": "269f3782918818c96720abb2328ae956a6ae38776589121c825e327939f314ff",
+      "shared_sha256": "848391ad7e485a5de5d25bcc831fa9664a854c14110112bf3bce89a474aeb861",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    },
+    {
+      "repo_path": "source/yok_collection/Üni_bölümler.py",
+      "original_source": "VSCode_Kodları/Scrapping/Yok_atlas_veri_cekme/Üni_bölümler.py",
+      "source_sha256": "ae41e62fc7006a348adfaeceb7c6bc8aff3457148f625d50cfcc226514508781",
+      "shared_sha256": "df1975cfe1af755a74614412ba18968d93fa8dcf2500ddb3982b08f1fc3d7570",
+      "modification": "Complete script; workstation-specific path strings replaced with relative placeholders",
+      "path_replacements": 3
+    }
+  ],
+  "research_workbooks": [
+    {
+      "repo_path": "data/research/matched_academic_records.xlsx",
+      "original_source": "CS552 Scrapping Project/final_match_with_genders.xlsx",
+      "sha256": "edeb10391cbb1f36132c7aa1dcb381d73f4033d98ebee0c4f2b234038094b209",
+      "unchanged": true
+    },
+    {
+      "repo_path": "data/research/university_department_links.xlsx",
+      "original_source": "CS552 Scrapping Project/Üniversiteler ve Bölümler.xlsx",
+      "sha256": "3b513d15bbc8cff26db312a2288346ec2191e88d32277ff785280b159d4ce687",
+      "unchanged": true
+    },
+    {
+      "repo_path": "data/research/university_names_and_departments.xlsx",
+      "original_source": "VSCode_Kodları/Data Analiz Kodları/universities.xlsx",
+      "sha256": "21f3d928e36140899e56602ceba87d62a35f83d4e112aadfd242bdd56489bd26",
+      "unchanged": true
+    }
+  ],
+  "course_reports": [
+    {
+      "repo_path": "reports/SUNUM.pptx",
+      "sha256": "a9eabb29923dde2f4577a754a778f780bf56034ae29890cea2c2082a835e5e33",
+      "unchanged": true
+    },
+    {
+      "repo_path": "reports/OVERLEAF TASLAK.docx",
+      "sha256": "58fe41dd11fef092122856cbae3ecaec0dacff597a94fe637d74ff0aa6ffa36f",
+      "unchanged": true
+    },
+    {
+      "repo_path": "reports/Sunum Konuşması.docx",
+      "sha256": "062a738492011807b9c4a67260c49c62d59024999daa276d566b1da32881e142",
+      "unchanged": true
+    }
+  ],
+  "analysis_figures": [
+    {
+      "repo_path": "assets/full_analysis/2024_article_counts (1).png",
+      "source_file": "2024_article_counts (1).png",
+      "sha256": "b36960f61ffd2f4227470d3cbb916150c7bcde19c56da750d8d8eafd54f87c06",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/2024_article_counts.png",
+      "source_file": "2024_article_counts.png",
+      "sha256": "92e736840e984c08d581338b1ec6519b808e6ba0f732dd050f707d00db8effdb",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/2024_type_article_counts(1).png",
+      "source_file": "2024_type_article_counts(1).png",
+      "sha256": "195b86f8cec5eefa6b4eb5d454f61ccb521b63517317c0703659b0ad58b3aa80",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/2024_type_article_counts.png",
+      "source_file": "2024_type_article_counts.png",
+      "sha256": "065937d90e96041b5aa49adbd08e180b6e7d0a95ab41483421d64d48923fdcd5",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/2024_university_article_counts (1).png",
+      "source_file": "2024_university_article_counts (1).png",
+      "sha256": "bb8529584d6f4db1b2ee1fdf1159a1942398af4dcaf3ef00d3432280db78c1af",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/2024_university_article_counts.png",
+      "source_file": "2024_university_article_counts.png",
+      "sha256": "d0e715b777b8b3bd4437451b8bc89ffce7eda180e924571a72eda6a1b2dd583a",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/city_gender_productivity_Istanbul(1).png",
+      "source_file": "city_gender_productivity_Istanbul(1).png",
+      "sha256": "98167a98837fd50be94d0a245f019fa217393ad89db02630da6a81fd5695fa99",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/city_gender_productivity_Istanbul.png",
+      "source_file": "city_gender_productivity_Istanbul.png",
+      "sha256": "e83b3ae82a85af0933de70b6de9547497dec06c4aafaa3a0f5a8133310f00fdd",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Department_Article_Count_Post_1990_Filtered(1).png",
+      "source_file": "Department_Article_Count_Post_1990_Filtered(1).png",
+      "sha256": "427fc456219e365113466a63d4cd2b319cbc99c34cab7dc380c6cea148220630",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Department_Article_Count_Post_1990_Filtered.png",
+      "source_file": "Department_Article_Count_Post_1990_Filtered.png",
+      "sha256": "2e0ba837a76469377766e8b6aaa43fff4d44614ab2e2564cf4650a9230db7f79",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Faculty_Article_Count_Post_1990_Filtered(1).png",
+      "source_file": "Faculty_Article_Count_Post_1990_Filtered(1).png",
+      "sha256": "f3526eafd8a06337d5ad1d7785bba3cd1a246b14264957ed831d377fff406806",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Faculty_Article_Count_Post_1990_Filtered.png",
+      "source_file": "Faculty_Article_Count_Post_1990_Filtered.png",
+      "sha256": "96ec4d4f60b15abcba62d481b8e757e7c4f14fe4661cfe2e44af230a31a0afb5",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/gender_articles_2019_2024(1).png",
+      "source_file": "gender_articles_2019_2024(1).png",
+      "sha256": "1fc30b6efc58e87c24beaec343570f3ec10a46ae7909f06d78ba74cd1b7163e1",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/gender_articles_2019_2024.png",
+      "source_file": "gender_articles_2019_2024.png",
+      "sha256": "ac15db54b38d9319f2626ce285d499a9757c2a2ea8b0d9ffde08847412727e3f",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/gender_distribution_by_city (1).png",
+      "source_file": "gender_distribution_by_city (1).png",
+      "sha256": "4d702b3de46b480bd360a333fbb340bf04e60b7e72b614a54d8d159028f4efa8",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/gender_distribution_by_city.png",
+      "source_file": "gender_distribution_by_city.png",
+      "sha256": "bb0fcd81f9a6d333ccdef6b4409b6dcca8de4f9512dd9bc014a64f6f22ef369b",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/gender_distribution_by_type (1).png",
+      "source_file": "gender_distribution_by_type (1).png",
+      "sha256": "ac2b12aa77c959a13e706b9f20aee11e4fd7befc8ecc1515361a8ccd74cfc969",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/gender_distribution_by_type.png",
+      "source_file": "gender_distribution_by_type.png",
+      "sha256": "b1656fedce3fb9d2cf2bd7a1f77da461fec0f00620981df3d1b846121c6ad20f",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Istanbul_Year_Article_Count(1).png",
+      "source_file": "Istanbul_Year_Article_Count(1).png",
+      "sha256": "6d68156939a912255b526ca9b5bf298f2cc719d9216b90d7da18693fd7d2e4cb",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Istanbul_Year_Article_Count.png",
+      "source_file": "Istanbul_Year_Article_Count.png",
+      "sha256": "f9212cbf5af78783939d8d83c95608330247130e75913704fb47a54e09651633",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/number_by_title_and_city (1).png",
+      "source_file": "number_by_title_and_city (1).png",
+      "sha256": "61fc988a6d98428eb92a736d63f9125031c55f3a7c738bc599be4247c454734e",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/number_by_title_and_city.png",
+      "source_file": "number_by_title_and_city.png",
+      "sha256": "41e67ee9512ebc80e0c8ad78b21e9c453e0fd65c931b73a12369a58f2c17c652",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Ozyegin University_articles_per_year(1).png",
+      "source_file": "Ozyegin University_articles_per_year(1).png",
+      "sha256": "e28c4e6455d682c84c1b7060a6a4aeb0855e1ae64835294cec3fb081a4e7b713",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Ozyegin University_articles_per_year.png",
+      "source_file": "Ozyegin University_articles_per_year.png",
+      "sha256": "11068108be125cbf0e6f037f016070f2b26f476a463e2dbbaeb9efca06b53883",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/type_gender_productivity_Private(1).png",
+      "source_file": "type_gender_productivity_Private(1).png",
+      "sha256": "3b363aef35882019a2dfe6536af862703b864a627df58ee1d346eb990ea489e3",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/type_gender_productivity_Private.png",
+      "source_file": "type_gender_productivity_Private.png",
+      "sha256": "5c6a4dadebda8c724338c14d429984ac62fc07d20dad84b8332c610227b315de",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/type_gender_productivity_State(1).png",
+      "source_file": "type_gender_productivity_State(1).png",
+      "sha256": "535b7080ae2cf3120bf20b09af7d7b8e3eedb266df535de8db88fbfbcacc86bf",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/type_gender_productivity_State.png",
+      "source_file": "type_gender_productivity_State.png",
+      "sha256": "c4ccee2ce88ca789cb36256b7815faa3d7c11253c344c819f40011e86b63cad3",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Year-Number_of_Articles(1).png",
+      "source_file": "Year-Number_of_Articles(1).png",
+      "sha256": "00765d1d059c11d33ed8c415f202b985819420229ced4d0e630c66951d931383",
+      "unchanged": true
+    },
+    {
+      "repo_path": "assets/full_analysis/Year-Number_of_Articles.png",
+      "source_file": "Year-Number_of_Articles.png",
+      "sha256": "2ed6e7814e725cf65433192a63f9e1981dd0964103e205554ea68250e3db975b",
+      "unchanged": true
+    }
+  ],
+  "not_in_this_project": [
+    {
+      "source": "Data Analiz Kodları/2_farklı_mean_ref_save.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/all_summary_paramter_combinaton.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/analiz_detay_comparsion.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/analiz_grafik_std_mean_max.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/analiz_tüm_excel.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/analizzz.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/classifcation.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/csv_analiz_tek-excel.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/dalga_boyuna_göre_std.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/Data_analysis_full_excel_sheet.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/deneme.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/deneme10.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/deneme3.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/deneme5.py",
+      "reason": "empty placeholder"
+    },
+    {
+      "source": "Data Analiz Kodları/deneme6.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/deneme7.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/deneme9.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/denemee4.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/en_son_grafik_hali_std_calculated.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/gainler_arası_yuzde_fark.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/her_concat_finali_difference.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/ikili_karşılaştırma_analizi.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/knn_csv_test.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/knn_csv_train.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/scale.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/Split_manaul.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/std'si_hesaplanmış_analizi.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/std_difference_gain_analysis.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/tek_excel_describe.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Data Analiz Kodları/çoklu_analiz_detay_karşılaştırma.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Scrapping/deneme.py",
+      "reason": "spectral/other unrelated code; not automatically treated as CS552 publication work"
+    },
+    {
+      "source": "Scrapping/DENEME2.py",
+      "reason": "empty placeholder"
+    }
+  ],
+  "missing_inputs": "The raw historical Scopus publication CSVs and intermediate exports referenced by source paths have not been located in the provided workspace. Their absence is not resolved by the matched-author workbook."
+}

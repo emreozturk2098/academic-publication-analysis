@@ -21,3 +21,11 @@ Five small excerpts cover normalization, author/affiliation cleanup, name format
 - No one-to-one match has yet been established between these individual script versions and the four retained archived figures. The source figure captions and coverage limitations remain valid.
 
 No browser was launched by the recovered scripts, no scraping ran, no saved browser profile was accessed, no original data analysis was rerun and no new research score was produced for this portfolio update. Original files were not modified. Full material requests: **emre.ozturk.2098@gmail.com**. The repository remains **private**.
+
+
+## Expanded school archive (supersedes the initial excerpt-only distribution scope)
+Emre authorized full relevant school-project materials. Complete relevant scripts, available original workbooks, original course reports and all distinct publication-analysis PNGs are now included; see FULL_ARCHIVE_MANIFEST.json. The original selected-only statements above describe the earlier package. Raw historical Scopus inputs remain unlocated, so end-to-end reproduction is still not claimed.
+
+
+## Expanded school archive (supersedes the initial excerpt-only distribution scope)
+Emre authorized full relevant school-project materials. Complete relevant scripts, available original workbooks, original course reports and all distinct publication-analysis PNGs are now included; see FULL_ARCHIVE_MANIFEST.json. The original selected-only statements above describe the earlier package. Raw historical Scopus inputs remain unlocated, so end-to-end reproduction is still not claimed.
