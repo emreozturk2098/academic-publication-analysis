@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "file": "assets/articles_by_year.png",
+      "source_file": "Year-Number_of_Articles.png",
+      "sha256": "2ed6e7814e725cf65433192a63f9e1981dd0964103e205554ea68250e3db975b",
+      "modified": false
+    },
+    {
+      "file": "assets/departments_post_1990.png",
+      "source_file": "Department_Article_Count_Post_1990_Filtered.png",
+      "sha256": "2e0ba837a76469377766e8b6aaa43fff4d44614ab2e2564cf4650a9230db7f79",
+      "modified": false
+    },
+    {
+      "file": "assets/institution_type_2024.png",
+      "source_file": "2024_type_article_counts.png",
+      "sha256": "065937d90e96041b5aa49adbd08e180b6e7d0a95ab41483421d64d48923fdcd5",
+      "modified": false
+    },
+    {
+      "file": "assets/cities_2024.png",
+      "source_file": "2024_article_counts.png",
+      "sha256": "92e736840e984c08d581338b1ec6519b808e6ba0f732dd050f707d00db8effdb",
+      "modified": false
+    }
+  ],
+  "method_sources": [
+    "SUNUM.pptx",
+    "OVERLEAF TASLAK.docx",
+    "SunumKonuşması.docx"
+  ],
+  "original_code_status": "CS552_Project1_Codes.docx contains placeholders, not a recovered scraper",
+  "synthetic_data": "Four invented institution/year counts, not actual Scopus/YOK data",
+  "contribution": "Emre confirms joint equal contribution with Ali Baki at every stage"
+}
