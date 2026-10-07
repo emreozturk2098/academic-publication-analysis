@@ -6,7 +6,7 @@
 Records from different sources use inconsistent name order, Turkish/English spelling and institution names. People with the same name can be confused. The study prepared and matched Scopus/university information, then explored how recorded publication counts vary by year, city, institution type and department.
 
 ## What was done and how?
-Course materials describe data collection, text/name standardization, spelling cleanup, name-plus-institution matching and exploratory summaries using Scopus and YÖK Atlas information. The surviving outputs include aggregate charts. The original scraper/analysis code is missing: its Word file contains placeholders. A later, small Python illustration is clearly labeled; it is not presented as recovered original code.
+Course materials describe data collection, text/name standardization, spelling cleanup, name-plus-institution matching and exploratory summaries using Scopus and YÖK Atlas information. The surviving outputs include aggregate charts. **Original Python scripts have now been recovered** from the VSCode archive: Selenium collection, name/character cleanup, author-affiliation processing, prototype matching and aggregation. Five selected code excerpts are included; full research data and complete scripts remain outside this portfolio. The earlier Word document contained placeholders, but it is no longer the only available code source. See [recovered-code scope](docs/RECOVERED_CODE.md).
 
 ## Archived outputs
 ![Articles by year](assets/articles_by_year.png)
@@ -23,10 +23,11 @@ Course materials describe data collection, text/name standardization, spelling c
 
 [Output scope and limitations](results/README.md), [method and study context](docs/PROJECT_CONTEXT.md).
 
-## Small code and data illustration
-- [Later aggregate-processing example](examples/aggregate_counts.py), [provenance](examples/README.md).
+## Selected original code and small data illustration
+- [Recovered original functions and matching excerpt](examples/README.md): text normalization, author/affiliation cleanup, name formatting, name-only join logic and historic pagination XPath.
+- [Later aggregate-processing example](examples/aggregate_counts.py), explicitly separate from the recovered code.
 - [Four fabricated institution/year rows](data/synthetic_institution_counts.csv), unrelated to the archived graph values.
-- [Image source manifest](docs/SOURCE_MANIFEST.json).
+- [Image and code source manifest](docs/SOURCE_MANIFEST.json).
 
 No raw person-level matching workbook or demographic-label records are included. The project demonstrates data cleaning, text standardization, record matching, exploratory analysis and cautious interpretation of aggregation. It is a course study; publication/deployment is not established.
 
