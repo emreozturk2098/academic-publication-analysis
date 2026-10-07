@@ -1,2 +1,34 @@
-# academic-publication-analysis
-CS552 graduate data science course study: Scopus/university record preparation, archived aggregate publication charts and selected portfolio examples.
+# Academic Publication Analysis — Scopus and University Data
+
+**Graduate coursework at Özyeğin University — CS552.A, Data Science with Python.** Emre Öztürk and Ali Baki Türköz carried out all stages jointly and equally. This private portfolio explains an exploratory study of academic publication records and university information in Turkey.
+
+## What problem was addressed?
+Records from different sources use inconsistent name order, Turkish/English spelling and institution names. People with the same name can be confused. The study prepared and matched Scopus/university information, then explored how recorded publication counts vary by year, city, institution type and department.
+
+## What was done and how?
+Course materials describe data collection, text/name standardization, spelling cleanup, name-plus-institution matching and exploratory summaries using Scopus and YÖK Atlas information. The surviving outputs include aggregate charts. The original scraper/analysis code is missing: its Word file contains placeholders. A later, small Python illustration is clearly labeled; it is not presented as recovered original code.
+
+## Archived outputs
+![Articles by year](assets/articles_by_year.png)
+*Source chart: 1970 onward. An upward pattern in recorded totals is visible; these are not independently verified unique nationwide paper counts.*
+
+![Department counts](assets/departments_post_1990.png)
+*Post-1990 source view, filtered to departments with at least 3,000 recorded articles. Similar counts do not prove collaboration.*
+
+![Institution type](assets/institution_type_2024.png)
+*State/private counts in the source's 2024 Group 1 subset; subset selection is not documented here.*
+
+![City counts](assets/cities_2024.png)
+*City-level 2024 aggregate view. Collection coverage and counting units limit interpretation.*
+
+[Output scope and limitations](results/README.md), [method and study context](docs/PROJECT_CONTEXT.md).
+
+## Small code and data illustration
+- [Later aggregate-processing example](examples/aggregate_counts.py), [provenance](examples/README.md).
+- [Four fabricated institution/year rows](data/synthetic_institution_counts.csv), unrelated to the archived graph values.
+- [Image source manifest](docs/SOURCE_MANIFEST.json).
+
+No raw person-level matching workbook or demographic-label records are included. The project demonstrates data cleaning, text standardization, record matching, exploratory analysis and cautious interpretation of aggregation. It is a course study; publication/deployment is not established.
+
+## Portfolio preparation and contact
+Documentation and selected portfolio examples were prepared with **Codex and Claude assistance**, separately from the original course work. All materials remain **private**. Full material requests: **emre.ozturk.2098@gmail.com**.
