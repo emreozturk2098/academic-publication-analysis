@@ -30,7 +30,178 @@
     "OVERLEAF TASLAK.docx",
     "SunumKonuşması.docx"
   ],
-  "original_code_status": "CS552_Project1_Codes.docx contains placeholders, not a recovered scraper",
+  "original_code_status": "Original Python scripts recovered in VSCode_Kodları on 7 October 2026; selected excerpts included. Previous placeholder-only statement superseded.",
   "synthetic_data": "Four invented institution/year counts, not actual Scopus/YOK data",
-  "contribution": "Emre confirms joint equal contribution with Ali Baki at every stage"
+  "contribution": "Emre confirms joint equal contribution with Ali Baki at every stage",
+  "selected_code": [
+    {
+      "file": "examples/original_text_normalization.py",
+      "source": "VSCode_Kodları/Scrapping/scopus_all_upper.py",
+      "source_sha256": "70d29db3cc5f6ffc8cb032316bb5543894d55aa2807c7011ca78eaf65c3e6713",
+      "selection": [
+        {
+          "function": "convert_to_english_characters",
+          "lines": [
+            6,
+            14
+          ]
+        },
+        {
+          "function": "remove_numbers_in_parentheses",
+          "lines": [
+            17,
+            21
+          ]
+        }
+      ],
+      "modification": "original functions unchanged; standalone imports/header added"
+    },
+    {
+      "file": "examples/original_author_affiliation_cleaning.py",
+      "source": "VSCode_Kodları/Data Analiz Kodları/deneme13.py",
+      "source_sha256": "15c9df6164d6844e0d1cf7bcee0ed31ded0ac9c74d87652856ffbe8758212b08",
+      "selection": [
+        {
+          "function": "clean_author_names",
+          "lines": [
+            16,
+            33
+          ]
+        },
+        {
+          "function": "extract_university_info",
+          "lines": [
+            39,
+            45
+          ]
+        },
+        {
+          "function": "extract_city_info",
+          "lines": [
+            51,
+            59
+          ]
+        }
+      ],
+      "modification": "original functions unchanged; standalone imports/header added"
+    },
+    {
+      "file": "examples/original_pagination_xpath.py",
+      "source": "VSCode_Kodları/Scrapping/Yok_atlas_veri_cekme/tek_concat_üni_title_kişi_bölüm_all.py",
+      "source_sha256": "269f3782918818c96720abb2328ae956a6ae38776589121c825e327939f314ff",
+      "selection": [
+        {
+          "function": "get_page_xpath",
+          "lines": [
+            34,
+            44
+          ]
+        }
+      ],
+      "modification": "original functions unchanged; standalone imports/header added"
+    },
+    {
+      "file": "examples/original_name_formatting.py",
+      "source": "VSCode_Kodları/Scrapping/Matching_csvler.py",
+      "source_sha256": "88f12e5bd7e3d016c9f6e8150ecc3e3fb9c150c838681b6457a41d6470545788",
+      "selection": [
+        {
+          "function": "remove_numbers_in_parentheses",
+          "lines": [
+            7,
+            10
+          ]
+        },
+        {
+          "function": "parse_full_name",
+          "lines": [
+            13,
+            24
+          ]
+        }
+      ],
+      "modification": "original functions unchanged; standalone imports/header added"
+    },
+    {
+      "file": "examples/original_matching_excerpt.py",
+      "source": "VSCode_Kodları/Scrapping/Matching_csvler.py",
+      "source_sha256": "88f12e5bd7e3d016c9f6e8150ecc3e3fb9c150c838681b6457a41d6470545788",
+      "selection": [
+        {
+          "lines": [
+            34,
+            34
+          ]
+        },
+        {
+          "lines": [
+            37,
+            37
+          ]
+        },
+        {
+          "lines": [
+            38,
+            38
+          ]
+        },
+        {
+          "lines": [
+            39,
+            39
+          ]
+        },
+        {
+          "lines": [
+            40,
+            40
+          ]
+        },
+        {
+          "lines": [
+            44,
+            44
+          ]
+        },
+        {
+          "lines": [
+            47,
+            49
+          ]
+        },
+        {
+          "lines": [
+            50,
+            50
+          ]
+        },
+        {
+          "lines": [
+            51,
+            51
+          ]
+        },
+        {
+          "lines": [
+            54,
+            60
+          ]
+        },
+        {
+          "lines": [
+            63,
+            63
+          ]
+        },
+        {
+          "lines": [
+            66,
+            66
+          ]
+        }
+      ],
+      "modification": "original selected statements, new function/import/return wrapper; local CSV reads and writes removed"
+    }
+  ],
+  "recovery_date": "2026-10-07"
 }
