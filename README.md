@@ -39,7 +39,3 @@ Start with the research question above, then follow the workflow: collect/refere
 - [Four fabricated institution/year rows](data/synthetic_institution_counts.csv), unrelated to the archived graph values.
 - [Image and code source manifest](docs/SOURCE_MANIFEST.json).
 
-Available original matched-author and reference workbooks are included in the private school archive. Historical inferred labels are not treated as verified ground truth. The project demonstrates data cleaning, text standardization, record matching, exploratory analysis and cautious interpretation of aggregation. It is a course study; publication/deployment is not established.
-
-## Portfolio preparation and contact
-Documentation and selected portfolio examples were prepared with **Codex and Claude assistance**, separately from the original course work. All materials remain **private**. Full material requests: **emre.ozturk.2098@gmail.com**.
