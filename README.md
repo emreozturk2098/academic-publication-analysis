@@ -42,3 +42,6 @@ Start with the research question above, then follow the workflow: collect/refere
 
 ## Original materials recovered — 16 October 2026
 [Recovered materials and execution limitations](docs/RECOVERED_MATERIALS.md) · [File provenance manifest](docs/WORKSPACE_SYNC_MANIFEST.json). No reported experiment was rerun.
+
+## Original Scopus workbooks
+The two [original input workbooks](data/raw_scopus/README.md) are included in full with source checksums. No records were regenerated or reformatted.

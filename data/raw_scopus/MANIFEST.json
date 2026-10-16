@@ -1,0 +1,18 @@
+{
+  "source_archive": "Scopus_articles_in_Türkiye_1854_2024.zip",
+  "source_archive_bytes": 164822796,
+  "source_archive_sha256": "7f3ad87d7455a450fd55f03b5e2b857181a085af9e15b3c49c31b64675bb82de",
+  "extraction": "unchanged XLSX members; ZIP CRC checked during extraction",
+  "files": [
+    {
+      "file": "data/raw_scopus/Scopus_articles_in_Türkiye_1854_2015.xlsx",
+      "bytes": 63460859,
+      "sha256": "0a3fdaee559e43343a264689d59e0c212a6068cc1f6cccf5abe1d830a27e4d04"
+    },
+    {
+      "file": "data/raw_scopus/Scopus_articles_in_Türkiye_2016_2024.xlsx",
+      "bytes": 101326648,
+      "sha256": "09e12c78b196219a0347a44b126ba02b070dcab7f7951989306b56ac342f992a"
+    }
+  ]
+}

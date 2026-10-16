@@ -1,7 +1,8 @@
-# Raw Scopus archive located
+# Raw Scopus archive recovered
 
-The local source contains `Scopus_articles_in_Türkiye_1854_2024.zip` (164822796 bytes). It is not included in Git: the single ZIP exceeds GitHub’s 100 MiB regular-file limit. The archive contains 2 files. Original Scopus redistribution terms have not been independently established; access is not promised. The supplied matching tables and collection notebooks are included separately.
+Both original XLSX members of the supplied ZIP are included under [data/raw_scopus](../data/raw_scopus/), with original bytes and source hashes. Each workbook is below 100 MiB and uploaded directly through Git; no multipart reconstruction or LFS is required. The original wrapper ZIP remains in the local research workspace.
 
-Archive entries:
-- `Scopus_articles_in_Türkiye_1854_2015.xlsx` — 63460859 bytes
-- `Scopus_articles_in_Türkiye_2016_2024.xlsx` — 101326648 bytes
+- `data/raw_scopus/Scopus_articles_in_Türkiye_1854_2015.xlsx` — 63460859 bytes
+- `data/raw_scopus/Scopus_articles_in_Türkiye_2016_2024.xlsx` — 101326648 bytes
+
+No scraping, enrichment or training was rerun.
