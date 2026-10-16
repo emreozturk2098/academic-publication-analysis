@@ -1,0 +1,227 @@
+{
+  "audit_date": "2026-10-16",
+  "remote_updated": false,
+  "files": [
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project\\CS552-Project-new-branch.zip!CS552-Project-new-branch/CS552_Project_All_Codes.ipynb",
+      "path": "notebooks/CS552-Project-new-branch/CS552_Project_All_Codes.ipynb",
+      "status": "added",
+      "sha256": "18ccf5a0a08f18effb80791b345e47eeb6846e6ec70ee96614759ada39681c99",
+      "bytes": 50333
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552_2.PROJECT_Emre_Öztürk.tex",
+      "path": "reports/original/CS552_2.PROJECT_Emre_Öztürk.tex",
+      "status": "added",
+      "sha256": "f182c81a6ebad9d40e900f4ec350892b1bfe58be42a29954c66b8117186db232",
+      "bytes": 98212
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/final_match_with_genders (2).xlsx",
+      "path": "data/research/matched_academic_records.xlsx",
+      "status": "already_present_identical",
+      "sha256": "edeb10391cbb1f36132c7aa1dcb381d73f4033d98ebee0c4f2b234038094b209",
+      "bytes": 1267135
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/main.tex",
+      "path": "reports/original/main.tex",
+      "status": "added",
+      "sha256": "71e58bc6fe4776267977b2d7181de8de028144fe18f572a713bf40bff3882604",
+      "bytes": 215
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project\\CS552 Scrapping Project\\Ali-Baki-TURKOZ-main.zip!Ali-Baki-TURKOZ-main/CS552_Project_All_Codes.ipynb",
+      "path": "notebooks/Ali-Baki-TURKOZ-main/CS552_Project_All_Codes.ipynb",
+      "status": "added",
+      "sha256": "8a8ffe3861b0a6ad8b3c8871040c09a00b792f26c176b26646f591ef308200d7",
+      "bytes": 112958
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final (1).xlsx",
+      "path": "data/original/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final (1).xlsx",
+      "status": "added",
+      "sha256": "82be54c05fdc86cb36bf62c416b56083999080462d807e68016928f64d1c94d7",
+      "bytes": 4794963
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final (2).xlsx",
+      "path": "data/original/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final (2).xlsx",
+      "status": "added",
+      "sha256": "9dc632bc5679c5aba7b7330820992ba234421889fa30ef7d2eb3bfb88e504cda",
+      "bytes": 4737044
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final (3).xlsx",
+      "path": "data/original/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final (3).xlsx",
+      "status": "added",
+      "sha256": "f2b5734b28de23954680510bcb426096f5e4b69f67d8e5c0a77ace3b343436b0",
+      "bytes": 4736461
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final 1.xlsx",
+      "path": "data/original/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final 1.xlsx",
+      "status": "added",
+      "sha256": "46cbdab4d954bd588b851bf6b35cd916d193566b9ce1876c2f091dbb1f907143",
+      "bytes": 4794995
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final.xlsx",
+      "path": "data/original/CS552 Scrapping Project/All_Türkiye_matched_data_with_gender_city_and_type_final (1).xlsx",
+      "status": "already_present_identical",
+      "sha256": "82be54c05fdc86cb36bf62c416b56083999080462d807e68016928f64d1c94d7",
+      "bytes": 4794963
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/final_match_with_genders (1).xlsx",
+      "path": "data/original/CS552 Scrapping Project/final_match_with_genders (1).xlsx",
+      "status": "added",
+      "sha256": "058f5d308d3ecca2c212cee2f052f0865f14eafc8ce1af79bfca15f2b0f20a62",
+      "bytes": 1264418
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/final_match_with_genders.xlsx",
+      "path": "data/original/CS552 Scrapping Project/final_match_with_genders.xlsx",
+      "status": "added",
+      "sha256": "dfed0944b5e52e1205ddb58107a5a2a6c2882017a300eaa99ee5caa595a9d076",
+      "bytes": 1267024
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/matched_data.xlsx",
+      "path": "data/original/CS552 Scrapping Project/matched_data.xlsx",
+      "status": "added",
+      "sha256": "e06b2f2048455842e8f5a9e3693e7b720b0be3e19d4bc8b76e3336f9ba8af3f8",
+      "bytes": 3867965
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/matched_data_with_gender_city_and_type.xlsx",
+      "path": "data/original/CS552 Scrapping Project/matched_data_with_gender_city_and_type.xlsx",
+      "status": "added",
+      "sha256": "4190ff52cef93054362a95fdac98dd81da0bc3327f10d16f7ad58d308eb5ec2f",
+      "bytes": 4779760
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/organized_all_Türkiye_universities_academics.xlsx",
+      "path": "data/original/CS552 Scrapping Project/organized_all_Türkiye_universities_academics.xlsx",
+      "status": "added",
+      "sha256": "3cb8446a56fd32620fd1559c588a64889d26a48a2772132e5fa31c8891ada61b",
+      "bytes": 5948336
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/organized_universities_academics 2 (1).xlsx",
+      "path": "data/original/CS552 Scrapping Project/organized_universities_academics 2 (1).xlsx",
+      "status": "added",
+      "sha256": "11df849261fedfaec89fbfa4e634eb7f296232101b9b4f41dcb7d7c95ed81dec",
+      "bytes": 5947090
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/organized_universities_academics 2.xlsx",
+      "path": "data/original/CS552 Scrapping Project/organized_universities_academics 2.xlsx",
+      "status": "added",
+      "sha256": "7539b21bdfe5c973cc854ed9ef9755f9082577eb762395cba82b6df72eff01ee",
+      "bytes": 5947090
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/UPDATED_final_match 5 (1).xlsx",
+      "path": "data/original/CS552 Scrapping Project/UPDATED_final_match 5 (1).xlsx",
+      "status": "added",
+      "sha256": "7e4a6bc3a5d188be802cc5ecadc1ea66b18b14ad175b7ea7a6ab057de5097793",
+      "bytes": 1230913
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/UPDATED_final_match 5.xlsx",
+      "path": "data/original/CS552 Scrapping Project/UPDATED_final_match 5 (1).xlsx",
+      "status": "already_present_identical",
+      "sha256": "7e4a6bc3a5d188be802cc5ecadc1ea66b18b14ad175b7ea7a6ab057de5097793",
+      "bytes": 1230913
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/updated_gender_data_with_city_and_type.xlsx",
+      "path": "data/original/CS552 Scrapping Project/updated_gender_data_with_city_and_type.xlsx",
+      "status": "added",
+      "sha256": "314d3b5425f0c883cd8ba34e4b193caef35e7b563d8ecd83ec66ec492fbe075e",
+      "bytes": 4745100
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/CS552 Scrapping Project/Üniversiteler ve Bölümler.xlsx",
+      "path": "data/research/university_department_links.xlsx",
+      "status": "already_present_identical",
+      "sha256": "3b513d15bbc8cff26db312a2288346ec2191e88d32277ff785280b159d4ce687",
+      "bytes": 7450
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/VSCode_Kodları/Data Analiz Kodları/universities.xlsx",
+      "path": "data/research/university_names_and_departments.xlsx",
+      "status": "already_present_identical",
+      "sha256": "21f3d928e36140899e56602ceba87d62a35f83d4e112aadfd242bdd56489bd26",
+      "bytes": 8859
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/VSCode_Kodları/SCOPUS_KODLAR.docx",
+      "path": "source/original_root/SCOPUS_KODLAR.docx",
+      "status": "added",
+      "sha256": "c26259fe5aad474630d04409471f2eb38096a67dfb1ef7f5a8b04c07841b0314",
+      "bytes": 24664,
+      "reason": "original source"
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/VSCode_Kodları/scopus_tek_excel.py",
+      "path": "source/original_root/scopus_tek_excel.py",
+      "status": "added",
+      "sha256": "8f7c6ead8b574c2b9591b8c269da210afadefed202a451505197319642a426c0",
+      "bytes": 1813,
+      "reason": "original source"
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/VSCode_Kodları/Scrap_üni_bölüm_kişi.py",
+      "path": "source/original_root/Scrap_üni_bölüm_kişi.py",
+      "status": "added",
+      "sha256": "4ebc3d45ad092f08c6b8422ef62a15eaf72c8940a07b68fd2c3ab100d98215cd",
+      "bytes": 1524,
+      "reason": "original source"
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/VSCode_Kodları/Scrap_üni_bölüm_kişi_full_code.py",
+      "path": "source/original_root/Scrap_üni_bölüm_kişi_full_code.py",
+      "status": "added",
+      "sha256": "a6bd7d2a022a1e0208c3890473d30cd855f95b33dcb00b656055f4f15fc20d3c",
+      "bytes": 3286,
+      "reason": "original source"
+    },
+    {
+      "repo": "academic-publication-analysis",
+      "source": "CS 552-Python ile Veri bilimi_CS552 Scrapping Project/VSCode_Kodları/Scrap_üni_bölüm_kişi_full_code_2.part.py",
+      "path": "source/original_root/Scrap_üni_bölüm_kişi_full_code_2.part.py",
+      "status": "added",
+      "sha256": "d2aed00c1df4533052c2d811defb1610db20c5c6a7bd41a665ae978f10f944e0",
+      "bytes": 4662,
+      "reason": "original source"
+    }
+  ]
+}

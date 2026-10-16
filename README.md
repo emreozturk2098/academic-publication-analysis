@@ -39,3 +39,6 @@ Start with the research question above, then follow the workflow: collect/refere
 - [Four fabricated institution/year rows](data/synthetic_institution_counts.csv), unrelated to the archived graph values.
 - [Image and code source manifest](docs/SOURCE_MANIFEST.json).
 
+
+## Original materials recovered — 16 October 2026
+[Recovered materials and execution limitations](docs/RECOVERED_MATERIALS.md) · [File provenance manifest](docs/WORKSPACE_SYNC_MANIFEST.json). No reported experiment was rerun.
