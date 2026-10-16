@@ -1,0 +1,971 @@
+{
+  "scope": "All 138 XLSX members from three supplied academic collection ZIPs, with byte-identical duplicates stored once. Archive names are variants, not proof of final chronological order.",
+  "entries": [
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Akdeniz Üniversitesi/Antalya_Akdeniz_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/c5106caf0fe8e5f660e84820.xlsx",
+      "sha256": "c5106caf0fe8e5f660e848200b29e6716f319bbe673d0c49f622868a79f5684a",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Akdeniz Üniversitesi/Antalya_Akdeniz_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/dec407ea48f163fb3633d937.xlsx",
+      "sha256": "dec407ea48f163fb3633d937c839d99325053dae07511569c35b73e4a3d4cb24",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Alanya Alaaddin Keykubat Üniversitesi/Antalya_Alaaddin_Keykubat_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/ead24e3c4a28d278d6afcbe0.xlsx",
+      "sha256": "ead24e3c4a28d278d6afcbe0bb90a3ee7f3c478ed6b95ca4e9291ad861e76cc4",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Alanya Alaaddin Keykubat Üniversitesi/Antalya_Alanya_Alaaddin_Keykubat_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/c5c9e5cf457306a5898f3c02.xlsx",
+      "sha256": "c5c9e5cf457306a5898f3c024dde51843807a576249b84c864926960d52352a2",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Alanya Üniversitesi/Antalya_Alanya_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/b74c4be922eeaa96bac12c20.xlsx",
+      "sha256": "b74c4be922eeaa96bac12c207a88e895ac25979ea05e0383925e89e4b756eb48",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Alanya Üniversitesi/Antalya_Alanya_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/14adc5190d402461d198d879.xlsx",
+      "sha256": "14adc5190d402461d198d879afd913dd1db936baa36f302be567d0d705611a3b",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Antalya Belek Üniversitesi/Antalya_Belek_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/a3ca8de4973a8f04822df4a9.xlsx",
+      "sha256": "a3ca8de4973a8f04822df4a914ac36df4d665c49382ffeddfcaa9274c2a65442",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Antalya Belek Üniversitesi/Antalya_Belek_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/e4bca8b1224da00f361e5644.xlsx",
+      "sha256": "e4bca8b1224da00f361e56447d99a6b6acd18336d71567dfa8430ed046cd0492",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Antalya Bilim Üniversitesi/Antalya_Bilim_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/2c0ed3a73bb135ab5d3d2dc2.xlsx",
+      "sha256": "2c0ed3a73bb135ab5d3d2dc2616871f376b1e1b557105264cd77b538b40cbb6f",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/Antalya Bilim Üniversitesi/Antalya_Bilim_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/09b91e749a25324debb5d41d.xlsx",
+      "sha256": "09b91e749a25324debb5d41d7a0f88fd5275581dc2f3ff705522d241868ff029",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Antalya/universities_in_Antalya.xlsx",
+      "stored_file": "data/university_archives/tables/995fb338c66818b31b21ae1d.xlsx",
+      "sha256": "995fb338c66818b31b21ae1dbd394f185eae0f251bc916f1e2559788c535be14",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Bursa/Bursa Teknik Üniversitesi/Bursa_Teknik_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/54bb67a90f18968b56d69c5f.xlsx",
+      "sha256": "54bb67a90f18968b56d69c5f229b8d2684276b940e9f879a94c21784b05d2d63",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Bursa/Bursa Teknik Üniversitesi/Bursa_Teknik_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/899f20ad114948df3ac7e604.xlsx",
+      "sha256": "899f20ad114948df3ac7e604032843bab2eb40c109a2611f69a8a2e53c08f42c",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Bursa/Bursa Uludağ Üniversitesi/Bursa_Uludağ_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/5d65928f0782cb2cf18d49cc.xlsx",
+      "sha256": "5d65928f0782cb2cf18d49cc164fc8ad5c622b4c5869d7cabb93927b393ea6b8",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Bursa/Bursa Uludağ Üniversitesi/Bursa_Uludağ_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/615dcbdfa2e693ef0a4961b8.xlsx",
+      "sha256": "615dcbdfa2e693ef0a4961b8128160bbea81f065bb65735bde4eef5c770be206",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Bursa/Mudanya Üniversitesi/Bursa_Mudanya_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/3d0e0ec192b1e68d2ca8fbe3.xlsx",
+      "sha256": "3d0e0ec192b1e68d2ca8fbe34d07f93b8b2d3545241e5e05e88708d2f4a2c299",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Bursa/Mudanya Üniversitesi/Bursa_Mudanya_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/e23582b2576ee01b0d69d4f2.xlsx",
+      "sha256": "e23582b2576ee01b0d69d4f26e2e78ad7fd9139964629691fd5dae736c1c3d05",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Bursa/universities_in_Bursa.xlsx",
+      "stored_file": "data/university_archives/tables/e6677825944d4fc16046063c.xlsx",
+      "sha256": "e6677825944d4fc16046063c3d5674a0a70d3ba6e1d5a53e48b68c13b5da7e26",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Gaziantep/Gazantep İslam Bilimleri ve Teknoloji Üniversitesi/Gaziantep_İslam_Bilim_Ve_Teknoloji_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/87eca85a5714904a8710d354.xlsx",
+      "sha256": "87eca85a5714904a8710d354327d7b5206c0cddb59050c7b465e05d5448f8f6e",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Gaziantep/Gazantep İslam Bilimleri ve Teknoloji Üniversitesi/Gaziantep_İslam_Bilim_ve_Teknoloji_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/e7ee5f0db5eab2c1eacc1c7d.xlsx",
+      "sha256": "e7ee5f0db5eab2c1eacc1c7dbd7396032edabe6d53e1ded910c6939040db65b6",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Gaziantep/Gaziantep Üniversitesi/Gaziantep_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/d81c8387ec891412e5b3e6b1.xlsx",
+      "sha256": "d81c8387ec891412e5b3e6b1795a361d7cd6efc00a1c9856b426db8316d88c3f",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Gaziantep/Gaziantep Üniversitesi/Gaziantep_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/f0d98a72be3ed41eb708bdfd.xlsx",
+      "sha256": "f0d98a72be3ed41eb708bdfd067e348b91ed7fd717a44a5c551985e71890254b",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Gaziantep/Hasan Kalyoncu Üniversitesi/Gaziantep_Hasan Kalyoncu_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/02143ad7dd54d0c287e38d70.xlsx",
+      "sha256": "02143ad7dd54d0c287e38d70f30229e68e0e1006f475ebbde8e8d8a7ae79e235",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Gaziantep/Hasan Kalyoncu Üniversitesi/Gaziantep_Hasan_Kalyoncu_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/057354b4f082b3d6ad3b2281.xlsx",
+      "sha256": "057354b4f082b3d6ad3b22816647c62cb75c01ec7d26664c702dcec7f59048ce",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Gaziantep/Sanko Üniversitesi/Gaziantep_Sanko_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/709a13111c68ea3ef0a40256.xlsx",
+      "sha256": "709a13111c68ea3ef0a4025615a557d7f6ecf77d199d35c99329b1fbe2632930",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Gaziantep/Sanko Üniversitesi/Gaziantep_Sanko_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/18f24b09f69103e016b61811.xlsx",
+      "sha256": "18f24b09f69103e016b61811261c1f712f09f1655ea4c03666d1c50e407b75d3",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/Gaziantep/universities_in_Gaziantep.xlsx",
+      "stored_file": "data/university_archives/tables/f665b75275f53b0003d1ddab.xlsx",
+      "sha256": "f665b75275f53b0003d1ddab525baf29d527caac66247cc0475a707864e69484",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/Dokuz Eylül Üniversitesi/Dokuz_Eylül_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/93d46090b6c17e2c5156fb1d.xlsx",
+      "sha256": "93d46090b6c17e2c5156fb1d3484ef1e557122deff3fb3a6fdd1fff7112a1498",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/Dokuz Eylül Üniversitesi/Dokuz_Eylül_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/48cee4696e67bc050c7f29a0.xlsx",
+      "sha256": "48cee4696e67bc050c7f29a03e154e42fc3a573e5c269db5af4338619c620838",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/Ege Üniversitesi/Ege_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/923117b7e032be8f7a52f264.xlsx",
+      "sha256": "923117b7e032be8f7a52f264d31757bf5146d79e7446637010c27115a5e779ef",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/Ege Üniversitesi/Ege_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/067a769d8c5c46d995296d71.xlsx",
+      "sha256": "067a769d8c5c46d995296d715fbdb54ed8c3751dd59570a249ed3ce30ff02956",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/universities_in_İzmir.xlsx",
+      "stored_file": "data/university_archives/tables/74cefba9fc56e8ef815d5d42.xlsx",
+      "sha256": "74cefba9fc56e8ef815d5d425fc4a970bfdff6ca9dfdd379341e0116aa6939e6",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Bakırçay Üniversitesi/İzmir_Bakırçay_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/1f6a371a3cb86c83f5b3fa35.xlsx",
+      "sha256": "1f6a371a3cb86c83f5b3fa35a2e82a2349832725b73fbb6f985498af43a4ee0c",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Bakırçay Üniversitesi/İzmir_Bakırçay_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/98013c75536f08d983333a6e.xlsx",
+      "sha256": "98013c75536f08d983333a6e9e4b06c8592930358ac96147eb00720a5233c21a",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Demokrasi Üniversitesi/İzmir_Demokrasi_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/adc3b4cd75703f0f8d993344.xlsx",
+      "sha256": "adc3b4cd75703f0f8d9933440ccf87399dcfa7412a752b6b74350743a94c233b",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Demokrasi Üniversitesi/İzmir_Demokrasi_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/479eae09fe2b5334553d3339.xlsx",
+      "sha256": "479eae09fe2b5334553d333948788b7163cd848ee50df3b02938d5dcd07d5078",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Ekonomi Üniversitesi/Izmir_Ekonomi_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/b27d064c1518595ba5ff3aa8.xlsx",
+      "sha256": "b27d064c1518595ba5ff3aa8a0fd8ef21a723ad666b3da24db2bbb4efff64d48",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Ekonomi Üniversitesi/İzmir_Ekonomi_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/adb865f6d62497e9f4a5d444.xlsx",
+      "sha256": "adb865f6d62497e9f4a5d444c1ed5c03dcc69d8042c36c9d21b8a1a5b59a73e5",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Katip Çelebi Üniversitesi/İzmir_Katip_Çelebi_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/bfe7e175025462b327495b5a.xlsx",
+      "sha256": "bfe7e175025462b327495b5a9b297e1fcecc7846351d2abc5a05753dc52bf297",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Katip Çelebi Üniversitesi/İzmir_Katip_Çelebi_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/8523bc004659f0f6af43420e.xlsx",
+      "sha256": "8523bc004659f0f6af43420e11a8dfe4c7724432f86d677e9bc64d513aa092d4",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Tınaztepe Üniversitesi/Izmir_Tınaztepe_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/ad2e83bc49cb847bd9dd5c3e.xlsx",
+      "sha256": "ad2e83bc49cb847bd9dd5c3eaad4627f71076680470915240f2127061e0fda79",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Tınaztepe Üniversitesi/İzmir_Tınaztepe_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/202920f8e2b7fe1fd6da3a86.xlsx",
+      "sha256": "202920f8e2b7fe1fd6da3a86475f840b76f63ee9b2f237c3b41fb80a2955270b",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Yaşar Üniversitesi/Izmir_Yaşar_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/3d9e286eed1184cf2eb762ed.xlsx",
+      "sha256": "3d9e286eed1184cf2eb762ed3b9b8571791a792c850db811023c254271abda07",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Yaşar Üniversitesi/İzmir_Yaşar_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/3e726409800da49efceed746.xlsx",
+      "sha256": "3e726409800da49efceed74625603d0ece4fcd6d2d15523bcd9d290adf00a33e",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Yüksek Teknoloji Üniversitesi/İzmir_Yüksek_Teknoloji_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/24e76d2940f51b6ec2fae6d2.xlsx",
+      "sha256": "24e76d2940f51b6ec2fae6d2d3ff7d5f109074b00c8c502f7ee1a7a13b7d22ab",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552-Project-new-branch.zip",
+      "archive_entry": "CS552-Project-new-branch/İzmir/İzmir Yüksek Teknoloji Üniversitesi/İzmir_Yüksek_Teknoloji_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/a5a3d432aa9db39907d4eb14.xlsx",
+      "sha256": "a5a3d432aa9db39907d4eb140396fc7d01d0177c5d6f7575000ab97da14b0486",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Akdeniz Üniversitesi/Antalya_Akdeniz_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/c5106caf0fe8e5f660e84820.xlsx",
+      "sha256": "c5106caf0fe8e5f660e848200b29e6716f319bbe673d0c49f622868a79f5684a",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Akdeniz Üniversitesi/Antalya_Akdeniz_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/e40a07655c1ce93a93deae9e.xlsx",
+      "sha256": "e40a07655c1ce93a93deae9eab22e174b84c84bd4ca3439a4d9cbb335f377ad8",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Alanya Alaaddin Keykubat Üniversitesi/Antalya_Alaaddin_Keykubat_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/70552c18aa981c086039ae09.xlsx",
+      "sha256": "70552c18aa981c086039ae09a799206d0ea3919134edc25eb0115cbe4c3478dc",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Alanya Alaaddin Keykubat Üniversitesi/Antalya_Alanya_Alaaddin_Keykubat_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/c5c9e5cf457306a5898f3c02.xlsx",
+      "sha256": "c5c9e5cf457306a5898f3c024dde51843807a576249b84c864926960d52352a2",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Alanya Üniversitesi/Antalya_Alanya_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/b74c4be922eeaa96bac12c20.xlsx",
+      "sha256": "b74c4be922eeaa96bac12c207a88e895ac25979ea05e0383925e89e4b756eb48",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Alanya Üniversitesi/Antalya_Alanya_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/55ec669fc9662f9f2244ac2a.xlsx",
+      "sha256": "55ec669fc9662f9f2244ac2ab28d2d79cb1c6b736f4edca41ac62e4f5b121048",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Antalya Belek Üniversitesi/Antalya_Belek_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/a3ca8de4973a8f04822df4a9.xlsx",
+      "sha256": "a3ca8de4973a8f04822df4a914ac36df4d665c49382ffeddfcaa9274c2a65442",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Antalya Belek Üniversitesi/Antalya_Belek_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/66b0cb50cfd7c0ea3cff5452.xlsx",
+      "sha256": "66b0cb50cfd7c0ea3cff54521206531ff19ab21ab9c0463a9627251c49f88403",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Antalya Bilim Üniversitesi/Antalya_Bilim_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/2c0ed3a73bb135ab5d3d2dc2.xlsx",
+      "sha256": "2c0ed3a73bb135ab5d3d2dc2616871f376b1e1b557105264cd77b538b40cbb6f",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/Antalya Bilim Üniversitesi/Antalya_Bilim_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/71c7de395417ae07fbc48506.xlsx",
+      "sha256": "71c7de395417ae07fbc485062f42d4912ff5cbc3103351f40519268a90cf7ab4",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Antalya/universities_in_Antalya.xlsx",
+      "stored_file": "data/university_archives/tables/995fb338c66818b31b21ae1d.xlsx",
+      "sha256": "995fb338c66818b31b21ae1dbd394f185eae0f251bc916f1e2559788c535be14",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Bursa/Bursa Teknik Üniversitesi/Bursa_Teknik_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/54bb67a90f18968b56d69c5f.xlsx",
+      "sha256": "54bb67a90f18968b56d69c5f229b8d2684276b940e9f879a94c21784b05d2d63",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Bursa/Bursa Teknik Üniversitesi/Bursa_Teknik_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/d45347961a50713d999ce129.xlsx",
+      "sha256": "d45347961a50713d999ce1292279618510c935de374e170d87f15ec49a4386c1",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Bursa/Bursa Uludağ Üniversitesi/Bursa_Uludağ_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/5d65928f0782cb2cf18d49cc.xlsx",
+      "sha256": "5d65928f0782cb2cf18d49cc164fc8ad5c622b4c5869d7cabb93927b393ea6b8",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Bursa/Bursa Uludağ Üniversitesi/Bursa_Uludağ_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/48548591c3561053097334c3.xlsx",
+      "sha256": "48548591c3561053097334c3504aacb26bda91e00864cb2e0d40653c4fc06a86",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Bursa/Mudanya Üniversitesi/Bursa_Mudanya_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/3d0e0ec192b1e68d2ca8fbe3.xlsx",
+      "sha256": "3d0e0ec192b1e68d2ca8fbe34d07f93b8b2d3545241e5e05e88708d2f4a2c299",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Bursa/Mudanya Üniversitesi/Bursa_Mudanya_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/b1849ba7bc979de42eb9b1df.xlsx",
+      "sha256": "b1849ba7bc979de42eb9b1df6a6e91eea1f35fa8e15b568e50f4f201900c77db",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Bursa/universities_in_Bursa.xlsx",
+      "stored_file": "data/university_archives/tables/e6677825944d4fc16046063c.xlsx",
+      "sha256": "e6677825944d4fc16046063c3d5674a0a70d3ba6e1d5a53e48b68c13b5da7e26",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Gaziantep/Gaziantep Üniversitesi/Gaziantep_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/d81c8387ec891412e5b3e6b1.xlsx",
+      "sha256": "d81c8387ec891412e5b3e6b1795a361d7cd6efc00a1c9856b426db8316d88c3f",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Gaziantep/Gaziantep Üniversitesi/Gaziantep_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/c2492f1fd6d02274e8747d3c.xlsx",
+      "sha256": "c2492f1fd6d02274e8747d3c6ba34422c3592c349bd17ec241b9cca9064b9f99",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Gaziantep/Gaziantep İslam Bilim ve Teknoloji Üniversitesi/Gaziantep_İslam_Bilim_Ve_Teknoloji_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/67cb976172321c725d223455.xlsx",
+      "sha256": "67cb976172321c725d223455f46dc9d28acb5fb0340aa59245dec3b8a8f04f4e",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Gaziantep/Gaziantep İslam Bilim ve Teknoloji Üniversitesi/Gaziantep_İslam_Bilim_ve_Teknoloji_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/e7ee5f0db5eab2c1eacc1c7d.xlsx",
+      "sha256": "e7ee5f0db5eab2c1eacc1c7dbd7396032edabe6d53e1ded910c6939040db65b6",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Gaziantep/Hasan Kalyoncu Üniversitesi/Gaziantep_Hasan Kalyoncu_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/4573a83fc2c35e638f5a0d1f.xlsx",
+      "sha256": "4573a83fc2c35e638f5a0d1fa22e752dfd6711b5c9b185d4cd6af593c0c55bb1",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Gaziantep/Hasan Kalyoncu Üniversitesi/Gaziantep_Hasan_Kalyoncu_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/057354b4f082b3d6ad3b2281.xlsx",
+      "sha256": "057354b4f082b3d6ad3b22816647c62cb75c01ec7d26664c702dcec7f59048ce",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Gaziantep/Sanko Üniversitesi/Gaziantep_Sanko_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/709a13111c68ea3ef0a40256.xlsx",
+      "sha256": "709a13111c68ea3ef0a4025615a557d7f6ecf77d199d35c99329b1fbe2632930",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Gaziantep/Sanko Üniversitesi/Gaziantep_Sanko_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/69cb61b21a15ba38da2e632e.xlsx",
+      "sha256": "69cb61b21a15ba38da2e632e23031c82149077c8f55639e3723d73828d7a32b0",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/Gaziantep/universities_in_Gaziantep.xlsx",
+      "stored_file": "data/university_archives/tables/f665b75275f53b0003d1ddab.xlsx",
+      "sha256": "f665b75275f53b0003d1ddab525baf29d527caac66247cc0475a707864e69484",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/Dokuz Eylül Üniversitesi/Dokuz_Eylül_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/93d46090b6c17e2c5156fb1d.xlsx",
+      "sha256": "93d46090b6c17e2c5156fb1d3484ef1e557122deff3fb3a6fdd1fff7112a1498",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/Dokuz Eylül Üniversitesi/Dokuz_Eylül_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/494a0623d76afce22365f28f.xlsx",
+      "sha256": "494a0623d76afce22365f28f938176e9ae3b49cc87cdabee3b82fae6337389c6",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/Ege Üniversitesi/Ege_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/923117b7e032be8f7a52f264.xlsx",
+      "sha256": "923117b7e032be8f7a52f264d31757bf5146d79e7446637010c27115a5e779ef",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/Ege Üniversitesi/Ege_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/bd10d1f919efc4909a8875b4.xlsx",
+      "sha256": "bd10d1f919efc4909a8875b425ebbae3891eab060b4b02243015450cad35d9ee",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/universities_in_İzmir.xlsx",
+      "stored_file": "data/university_archives/tables/74cefba9fc56e8ef815d5d42.xlsx",
+      "sha256": "74cefba9fc56e8ef815d5d425fc4a970bfdff6ca9dfdd379341e0116aa6939e6",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Bakırçay Üniversitesi/İzmir_Bakırçay_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/1f6a371a3cb86c83f5b3fa35.xlsx",
+      "sha256": "1f6a371a3cb86c83f5b3fa35a2e82a2349832725b73fbb6f985498af43a4ee0c",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Bakırçay Üniversitesi/İzmir_Bakırçay_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/62246545dc088d527572a53c.xlsx",
+      "sha256": "62246545dc088d527572a53c41294925b7cc401734fa2796386824a10771b053",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Demokrasi Üniversitesi/İzmir_Demokrasi_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/adc3b4cd75703f0f8d993344.xlsx",
+      "sha256": "adc3b4cd75703f0f8d9933440ccf87399dcfa7412a752b6b74350743a94c233b",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Demokrasi Üniversitesi/İzmir_Demokrasi_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/c07a72737824ea993594178e.xlsx",
+      "sha256": "c07a72737824ea993594178ea455c876d93dc7173095c59a61870a5a33fdbf34",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Ekonomi Üniversitesi/Izmir_Ekonomi_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/b27d064c1518595ba5ff3aa8.xlsx",
+      "sha256": "b27d064c1518595ba5ff3aa8a0fd8ef21a723ad666b3da24db2bbb4efff64d48",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Ekonomi Üniversitesi/İzmir_Ekonomi_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/68ff6ef890e18bc9d5a2781f.xlsx",
+      "sha256": "68ff6ef890e18bc9d5a2781fa16610e76cf2f6c62741a5442e0d15392cb3a24c",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Katip Çelebi Üniversitesi/İzmir_Katip_Çelebi_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/bfe7e175025462b327495b5a.xlsx",
+      "sha256": "bfe7e175025462b327495b5a9b297e1fcecc7846351d2abc5a05753dc52bf297",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Katip Çelebi Üniversitesi/İzmir_Katip_Çelebi_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/55e24ea0ad55458439809cb4.xlsx",
+      "sha256": "55e24ea0ad55458439809cb4348e2805d923809e244003f13aec7b89f9d1dea4",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Tınaztepe Üniversitesi/Izmir_Tınaztepe_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/ad2e83bc49cb847bd9dd5c3e.xlsx",
+      "sha256": "ad2e83bc49cb847bd9dd5c3eaad4627f71076680470915240f2127061e0fda79",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Tınaztepe Üniversitesi/İzmir_Tınaztepe_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/7d3f588ea05138f440239ad4.xlsx",
+      "sha256": "7d3f588ea05138f440239ad4fc6081d9b1d5c2d08a32b06c8be0dc88091e4eb8",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Yaşar Üniversitesi/Izmir_Yaşar_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/3d9e286eed1184cf2eb762ed.xlsx",
+      "sha256": "3d9e286eed1184cf2eb762ed3b9b8571791a792c850db811023c254271abda07",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Yaşar Üniversitesi/İzmir_Yaşar_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/6fafc60a18dbfca2ac133b78.xlsx",
+      "sha256": "6fafc60a18dbfca2ac133b78eab7b09595343ded326cd10d9aedf7d2d3cb7cde",
+      "status": "included"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Yüksek Teknoloji Üniversitesi/İzmir_Yüksek_Teknoloji_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/24e76d2940f51b6ec2fae6d2.xlsx",
+      "sha256": "24e76d2940f51b6ec2fae6d2d3ff7d5f109074b00c8c502f7ee1a7a13b7d22ab",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "Ali-Baki-TURKOZ-main.zip",
+      "archive_entry": "Ali-Baki-TURKOZ-main/İzmir/İzmir Yüksek Teknoloji Üniversitesi/İzmir_Yüksek_Teknoloji_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/86625b997752448635e6f843.xlsx",
+      "sha256": "86625b997752448635e6f843c7a5ce3be8238a73439909bc09d1620922532fe3",
+      "status": "included"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Bursa/universities_in_Bursa.xlsx",
+      "stored_file": "data/university_archives/tables/e6677825944d4fc16046063c.xlsx",
+      "sha256": "e6677825944d4fc16046063c3d5674a0a70d3ba6e1d5a53e48b68c13b5da7e26",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/universities_in_İzmir.xlsx",
+      "stored_file": "data/university_archives/tables/74cefba9fc56e8ef815d5d42.xlsx",
+      "sha256": "74cefba9fc56e8ef815d5d425fc4a970bfdff6ca9dfdd379341e0116aa6939e6",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/universities_in_Antalya.xlsx",
+      "stored_file": "data/university_archives/tables/995fb338c66818b31b21ae1d.xlsx",
+      "sha256": "995fb338c66818b31b21ae1dbd394f185eae0f251bc916f1e2559788c535be14",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Gaziantep/universities_in_Gaziantep.xlsx",
+      "stored_file": "data/university_archives/tables/f665b75275f53b0003d1ddab.xlsx",
+      "sha256": "f665b75275f53b0003d1ddab525baf29d527caac66247cc0475a707864e69484",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/Ege Üniversitesi/Ege_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/923117b7e032be8f7a52f264.xlsx",
+      "sha256": "923117b7e032be8f7a52f264d31757bf5146d79e7446637010c27115a5e779ef",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/Ege Üniversitesi/Ege_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/bd10d1f919efc4909a8875b4.xlsx",
+      "sha256": "bd10d1f919efc4909a8875b425ebbae3891eab060b4b02243015450cad35d9ee",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Bursa/Mudanya Üniversitesi/Bursa_Mudanya_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/3d0e0ec192b1e68d2ca8fbe3.xlsx",
+      "sha256": "3d0e0ec192b1e68d2ca8fbe34d07f93b8b2d3545241e5e05e88708d2f4a2c299",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Alanya Üniversitesi/Antalya_Alanya_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/b74c4be922eeaa96bac12c20.xlsx",
+      "sha256": "b74c4be922eeaa96bac12c207a88e895ac25979ea05e0383925e89e4b756eb48",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Gaziantep/Gaziantep Üniversitesi/Gaziantep_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/d81c8387ec891412e5b3e6b1.xlsx",
+      "sha256": "d81c8387ec891412e5b3e6b1795a361d7cd6efc00a1c9856b426db8316d88c3f",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/Dokuz Eylül Üniversitesi/Dokuz_Eylül_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/93d46090b6c17e2c5156fb1d.xlsx",
+      "sha256": "93d46090b6c17e2c5156fb1d3484ef1e557122deff3fb3a6fdd1fff7112a1498",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Yaşar Üniversitesi/Izmir_Yaşar_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/3d9e286eed1184cf2eb762ed.xlsx",
+      "sha256": "3d9e286eed1184cf2eb762ed3b9b8571791a792c850db811023c254271abda07",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Bursa/Mudanya Üniversitesi/Bursa_Mudanya_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/b1849ba7bc979de42eb9b1df.xlsx",
+      "sha256": "b1849ba7bc979de42eb9b1df6a6e91eea1f35fa8e15b568e50f4f201900c77db",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Akdeniz Üniversitesi/Antalya_Akdeniz_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/c5106caf0fe8e5f660e84820.xlsx",
+      "sha256": "c5106caf0fe8e5f660e848200b29e6716f319bbe673d0c49f622868a79f5684a",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Bursa/Bursa Teknik Üniversitesi/Bursa_Teknik_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/54bb67a90f18968b56d69c5f.xlsx",
+      "sha256": "54bb67a90f18968b56d69c5f229b8d2684276b940e9f879a94c21784b05d2d63",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Bursa/Bursa Uludağ Üniversitesi/Bursa_Uludağ_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/5d65928f0782cb2cf18d49cc.xlsx",
+      "sha256": "5d65928f0782cb2cf18d49cc164fc8ad5c622b4c5869d7cabb93927b393ea6b8",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Gaziantep/Sanko Üniversitesi/Gaziantep_Sanko_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/709a13111c68ea3ef0a40256.xlsx",
+      "sha256": "709a13111c68ea3ef0a4025615a557d7f6ecf77d199d35c99329b1fbe2632930",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Alanya Üniversitesi/Antalya_Alanya_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/55ec669fc9662f9f2244ac2a.xlsx",
+      "sha256": "55ec669fc9662f9f2244ac2ab28d2d79cb1c6b736f4edca41ac62e4f5b121048",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Gaziantep/Gaziantep Üniversitesi/Gaziantep_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/c2492f1fd6d02274e8747d3c.xlsx",
+      "sha256": "c2492f1fd6d02274e8747d3c6ba34422c3592c349bd17ec241b9cca9064b9f99",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/Dokuz Eylül Üniversitesi/Dokuz_Eylül_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/494a0623d76afce22365f28f.xlsx",
+      "sha256": "494a0623d76afce22365f28f938176e9ae3b49cc87cdabee3b82fae6337389c6",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Yaşar Üniversitesi/İzmir_Yaşar_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/6fafc60a18dbfca2ac133b78.xlsx",
+      "sha256": "6fafc60a18dbfca2ac133b78eab7b09595343ded326cd10d9aedf7d2d3cb7cde",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Ekonomi Üniversitesi/Izmir_Ekonomi_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/b27d064c1518595ba5ff3aa8.xlsx",
+      "sha256": "b27d064c1518595ba5ff3aa8a0fd8ef21a723ad666b3da24db2bbb4efff64d48",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Akdeniz Üniversitesi/Antalya_Akdeniz_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/e40a07655c1ce93a93deae9e.xlsx",
+      "sha256": "e40a07655c1ce93a93deae9eab22e174b84c84bd4ca3439a4d9cbb335f377ad8",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Bursa/Bursa Teknik Üniversitesi/Bursa_Teknik_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/d45347961a50713d999ce129.xlsx",
+      "sha256": "d45347961a50713d999ce1292279618510c935de374e170d87f15ec49a4386c1",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Bursa/Bursa Uludağ Üniversitesi/Bursa_Uludağ_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/48548591c3561053097334c3.xlsx",
+      "sha256": "48548591c3561053097334c3504aacb26bda91e00864cb2e0d40653c4fc06a86",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Gaziantep/Sanko Üniversitesi/Gaziantep_Sanko_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/69cb61b21a15ba38da2e632e.xlsx",
+      "sha256": "69cb61b21a15ba38da2e632e23031c82149077c8f55639e3723d73828d7a32b0",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Antalya Belek Üniversitesi/Antalya_Belek_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/a3ca8de4973a8f04822df4a9.xlsx",
+      "sha256": "a3ca8de4973a8f04822df4a914ac36df4d665c49382ffeddfcaa9274c2a65442",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Antalya Bilim Üniversitesi/Antalya_Bilim_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/2c0ed3a73bb135ab5d3d2dc2.xlsx",
+      "sha256": "2c0ed3a73bb135ab5d3d2dc2616871f376b1e1b557105264cd77b538b40cbb6f",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Bakırçay Üniversitesi/İzmir_Bakırçay_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/1f6a371a3cb86c83f5b3fa35.xlsx",
+      "sha256": "1f6a371a3cb86c83f5b3fa35a2e82a2349832725b73fbb6f985498af43a4ee0c",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Ekonomi Üniversitesi/İzmir_Ekonomi_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/68ff6ef890e18bc9d5a2781f.xlsx",
+      "sha256": "68ff6ef890e18bc9d5a2781fa16610e76cf2f6c62741a5442e0d15392cb3a24c",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Demokrasi Üniversitesi/İzmir_Demokrasi_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/adc3b4cd75703f0f8d993344.xlsx",
+      "sha256": "adc3b4cd75703f0f8d9933440ccf87399dcfa7412a752b6b74350743a94c233b",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Tınaztepe Üniversitesi/Izmir_Tınaztepe_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/ad2e83bc49cb847bd9dd5c3e.xlsx",
+      "sha256": "ad2e83bc49cb847bd9dd5c3eaad4627f71076680470915240f2127061e0fda79",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Antalya Belek Üniversitesi/Antalya_Belek_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/66b0cb50cfd7c0ea3cff5452.xlsx",
+      "sha256": "66b0cb50cfd7c0ea3cff54521206531ff19ab21ab9c0463a9627251c49f88403",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Antalya Bilim Üniversitesi/Antalya_Bilim_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/71c7de395417ae07fbc48506.xlsx",
+      "sha256": "71c7de395417ae07fbc485062f42d4912ff5cbc3103351f40519268a90cf7ab4",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Bakırçay Üniversitesi/İzmir_Bakırçay_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/62246545dc088d527572a53c.xlsx",
+      "sha256": "62246545dc088d527572a53c41294925b7cc401734fa2796386824a10771b053",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Demokrasi Üniversitesi/İzmir_Demokrasi_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/c07a72737824ea993594178e.xlsx",
+      "sha256": "c07a72737824ea993594178ea455c876d93dc7173095c59a61870a5a33fdbf34",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Tınaztepe Üniversitesi/İzmir_Tınaztepe_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/7d3f588ea05138f440239ad4.xlsx",
+      "sha256": "7d3f588ea05138f440239ad4fc6081d9b1d5c2d08a32b06c8be0dc88091e4eb8",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Katip Çelebi Üniversitesi/İzmir_Katip_Çelebi_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/bfe7e175025462b327495b5a.xlsx",
+      "sha256": "bfe7e175025462b327495b5a9b297e1fcecc7846351d2abc5a05753dc52bf297",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Katip Çelebi Üniversitesi/İzmir_Katip_Çelebi_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/55e24ea0ad55458439809cb4.xlsx",
+      "sha256": "55e24ea0ad55458439809cb4348e2805d923809e244003f13aec7b89f9d1dea4",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Gaziantep/Hasan Kalyoncu Üniversitesi/Gaziantep_Hasan_Kalyoncu_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/057354b4f082b3d6ad3b2281.xlsx",
+      "sha256": "057354b4f082b3d6ad3b22816647c62cb75c01ec7d26664c702dcec7f59048ce",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Yüksek Teknoloji Üniversitesi/İzmir_Yüksek_Teknoloji_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/24e76d2940f51b6ec2fae6d2.xlsx",
+      "sha256": "24e76d2940f51b6ec2fae6d2d3ff7d5f109074b00c8c502f7ee1a7a13b7d22ab",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Gaziantep/Hasan Kalyoncu Üniversitesi/Gaziantep_Hasan Kalyoncu_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/4573a83fc2c35e638f5a0d1f.xlsx",
+      "sha256": "4573a83fc2c35e638f5a0d1fa22e752dfd6711b5c9b185d4cd6af593c0c55bb1",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/İzmir/İzmir Yüksek Teknoloji Üniversitesi/İzmir_Yüksek_Teknoloji_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/86625b997752448635e6f843.xlsx",
+      "sha256": "86625b997752448635e6f843c7a5ce3be8238a73439909bc09d1620922532fe3",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Alanya Alaaddin Keykubat Üniversitesi/Antalya_Alaaddin_Keykubat_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/70552c18aa981c086039ae09.xlsx",
+      "sha256": "70552c18aa981c086039ae09a799206d0ea3919134edc25eb0115cbe4c3478dc",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Antalya/Alanya Alaaddin Keykubat Üniversitesi/Antalya_Alanya_Alaaddin_Keykubat_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/c5c9e5cf457306a5898f3c02.xlsx",
+      "sha256": "c5c9e5cf457306a5898f3c024dde51843807a576249b84c864926960d52352a2",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Gaziantep/Gaziantep İslam Bilim ve Teknoloji Üniversitesi/Gaziantep_İslam_Bilim_ve_Teknoloji_University_Departments.xlsx",
+      "stored_file": "data/university_archives/tables/e7ee5f0db5eab2c1eacc1c7d.xlsx",
+      "sha256": "e7ee5f0db5eab2c1eacc1c7dbd7396032edabe6d53e1ded910c6939040db65b6",
+      "status": "identical_content_reference"
+    },
+    {
+      "source_archive": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel.zip",
+      "archive_entry": "CS552_Project_Ali_Baki_TÜRKÖZ -Separated_Excel/Gaziantep/Gaziantep İslam Bilim ve Teknoloji Üniversitesi/Gaziantep_İslam_Bilim_Ve_Teknoloji_University_academic_staff.xlsx",
+      "stored_file": "data/university_archives/tables/67cb976172321c725d223455.xlsx",
+      "sha256": "67cb976172321c725d223455f46dc9d28acb5fb0340aa59245dec3b8a8f04f4e",
+      "status": "identical_content_reference"
+    }
+  ]
+}

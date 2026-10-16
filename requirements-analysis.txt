@@ -1,0 +1,8 @@
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+selenium
+Unidecode
+gender-guesser

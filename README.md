@@ -45,3 +45,9 @@ Start with the research question above, then follow the workflow: collect/refere
 
 ## Original Scopus workbooks
 The two [original input workbooks](data/raw_scopus/README.md) are included in full with source checksums. No records were regenerated or reformatted.
+
+## Additional CS552 materials
+[University collection-table archive](data/university_archives/README.md) · [EmreAI design/report study](docs/EMREAI_DESIGN_STUDY.md) · [Working-note scope](reports/working_notes/README.md). EmreAI remained a design/report project; no installable library is claimed.
+
+## Setup and archive validation
+[Environment, paths and execution scope](RUNNING.md). Run `python tools/check_archive.py` to verify the archive without training.
