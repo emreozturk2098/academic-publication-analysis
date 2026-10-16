@@ -4,7 +4,7 @@ CS552.A Data Science with Python, Özyeğin University, during Emre Öztürk's m
 ## Question and method
 The study investigated how recorded academic publication counts vary across years, cities, university types and departments. Course sources describe Scopus records matched with university/faculty/department information from YÖK Atlas. Cleanup included name-order correction, Turkish/English character normalization, spelling variants and matching intended to use names and institution context. The recovered selected prototype joins on names alone; affiliation extraction exists separately, but a combined institution-validated match is not demonstrated by that excerpt. Text normalization is a processing step, not proof of correct entity resolution.
 
-The source covers author-level records and additional demographic analysis. This private school archive now includes available original matched-author/reference workbooks, full relevant scripts, reports and distinct aggregate figures. Inferred demographic labels in the historical data are not independently verified. No current scraping or personal-data enrichment is performed.
+The source covers author-level records and additional demographic analysis. This public school archive now includes available original matched-author/reference workbooks, full relevant scripts, reports and distinct aggregate figures. Inferred demographic labels in the historical data are not independently verified. No current scraping or personal-data enrichment is performed.
 
 ## What is available
 The presentation and report draft describe the workflow; original aggregate PNG outputs survive. The earlier Word source contained placeholders. Original Python scripts were subsequently recovered from the VSCode archive. They include Selenium collection from YÖK Atlas and YÖK Academic Search, textual cleanup, author/affiliation processing, prototype joins and aggregate analysis. This package now shares selected original functions and matching statements, and also the complete relevant scripts plus available original matched-author/reference workbooks. The later aggregate illustration and synthetic data remain separately labeled.
@@ -16,4 +16,4 @@ Article totals may reflect author-affiliation counting and duplicate/coauthor jo
 
 Third-party Türkiye Bilim/Diaspora reports in the workspace are background references, not the team's original outputs. EmreAI is a separate design/report exercise and is not mixed into this data-analysis repo. No published paper or deployed system is claimed.
 
-The repo stays private. Available school-project data and full relevant scripts are included; some raw Scopus inputs remain unavailable. Contact: emre.ozturk.2098@gmail.com.
+The repository is public, with school-material sharing authorized by Emre. Available school-project data and full relevant scripts are included; the large raw Scopus archive is documented but not committed. Contact: emre.ozturk.2098@gmail.com.

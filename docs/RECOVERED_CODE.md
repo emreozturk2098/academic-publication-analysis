@@ -20,7 +20,7 @@ Five small excerpts cover normalization, author/affiliation cleanup, name format
 - The selected pagination function comes from YÖK Academic Search, not YÖK Atlas. Source comments mention 22 pages while the loop runs up to 130; hardcoded row selection, absolute XPath and 0.1-second waits are historical implementation limits.
 - No one-to-one match has yet been established between these individual script versions and the four retained archived figures. The source figure captions and coverage limitations remain valid.
 
-No browser was launched by the recovered scripts, no scraping ran, no saved browser profile was accessed, no original data analysis was rerun and no new research score was produced for this portfolio update. Original files were not modified. Full material requests: **emre.ozturk.2098@gmail.com**. The repository remains **private**.
+No browser was launched by the recovered scripts, no scraping ran, no saved browser profile was accessed, no original data analysis was rerun and no new research score was produced for this portfolio update. Original files were not modified. Full material requests: **emre.ozturk.2098@gmail.com**. The academic repository is public; school-material sharing was authorized by Emre.
 
 
 ## Expanded school archive (supersedes the initial excerpt-only distribution scope)

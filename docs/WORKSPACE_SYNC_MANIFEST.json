@@ -1,6 +1,5 @@
 {
   "audit_date": "2026-10-16",
-  "remote_updated": false,
   "files": [
     {
       "repo": "academic-publication-analysis",
@@ -223,5 +222,6 @@
       "bytes": 4662,
       "reason": "original source"
     }
-  ]
+  ],
+  "scope": "Source-file recovery manifest prepared before publication; current remote status is recorded in the workspace verification log."
 }

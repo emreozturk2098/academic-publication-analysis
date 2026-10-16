@@ -1,6 +1,6 @@
 # Academic Publication Analysis — Scopus and University Data
 
-**Graduate coursework at Özyeğin University — CS552.A, Data Science with Python.** Emre Öztürk and Ali Baki Türköz carried out all stages jointly and equally. This private coursework archive explains an exploratory study of academic publication records and university information in Turkey.
+**Graduate coursework at Özyeğin University — CS552.A, Data Science with Python.** Emre Öztürk and Ali Baki Türköz carried out all stages jointly and equally. This public coursework archive explains an exploratory study of academic publication records and university information in Turkey.
 
 ## What problem was addressed?
 Records from different sources use inconsistent name order, Turkish/English spelling and institution names. People with the same name can be confused. The study prepared and matched Scopus/university information, then explored how recorded publication counts vary by year, city, institution type and department.
